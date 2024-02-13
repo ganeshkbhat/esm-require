@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "require module for esm and browsers [official require.js module also present]",
   "main": "index.js",
+  "type": "module",
   "exports": {
     "require": "./index.js",
     "import": "./index.mjs"

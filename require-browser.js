@@ -16,6 +16,7 @@
 'use strict';
 
 // https://github.com/litejs/ui/blob/main/require.js
+// https://github.com/litejs/ui/blob/main/require.js
 
 !function(window) {
 	var modules = {}
@@ -46,3 +47,4 @@
 		for (key in map) modules[key] = map[key]
 	}
 }(this) // jshint ignore:line
+
